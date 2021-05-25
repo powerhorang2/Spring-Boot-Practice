@@ -1,4 +1,4 @@
-![Last commit](https://img.shields.io/github/last-commit/powerhorang2/Dev-Event?style=flat-square)
+![Last commit](https://img.shields.io/github/last-commit/powerhorang2/Spring-Boot-Practice?style=flat-square)
 
 # Spring-Boot-Practice
 갓대희님의 스프링 부트 프로젝트 강의
