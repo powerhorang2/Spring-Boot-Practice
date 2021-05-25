@@ -52,6 +52,12 @@
 			<groupId>javax.servlet</groupId>
 			<artifactId>jstl</artifactId>
 		</dependency>
+		
+		<!-- 스프링 부트에서 동적파일 파일 변경 자동으로 반영하기위해 devtools 설정 추가 -->
+		<dependency>
+			<groupId>org.springframework.boot</groupId>
+			<artifactId>spring-boot-devtools</artifactId>
+		</dependency>
 
 	</dependencies>
 	<build> <!--빌드에 사용할 플러그인 목록 -->
