@@ -1,6 +1,6 @@
-![Last commit](https://img.shields.io/github/last-commit/powerhorang2/Spring-Boot-Practice?style=flat-square)
 
-# Spring-Boot-Practice
+
+# Spring-Boot-Practice ![Last commit](https://img.shields.io/github/last-commit/powerhorang2/Spring-Boot-Practice?style=flat-square)
 갓대희님의 스프링 부트 프로젝트 강의
 
 ## 1장. 스프링부트 시작하기 (SpringBoot 프로젝트 설정 방법)
